@@ -14,9 +14,8 @@ In project folder execute:
 You may specify your own unique list of strings to randomize and then display.
 In project folder, execute:
 ``$ lein run "string 1" "string 2" "string 3" ``...
-``lein run "string 1" "string 2" "string 3"`` ...
 Example:
-``lein run "Ha-what!" "Yeahhh!" "Ho kayyyy"``
+``$ lein run "Ha-what!" "Yeahhh!" "Ho kayyyy"``
 produces the output:
 ``Yeahhh!
 Ho kayyyy

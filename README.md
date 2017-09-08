@@ -20,8 +20,7 @@ In project folder, execute:
 
 produces the output with default 12 strings:
 
-``
-How goes it
+``How goes it
 
 Hey
 
@@ -44,6 +43,7 @@ How do you do
 Howdy
 
 What's up``
+
 ``$ lein run "Ha-what!" "Yeahhh!" "Ho kayyyy"``
 
 produces the output:

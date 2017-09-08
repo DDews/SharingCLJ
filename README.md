@@ -14,14 +14,46 @@ In project folder execute:
 You may specify your own unique list of strings to randomize and then display.
 In project folder, execute:
 ``$ lein run "string 1" "string 2" "string 3" ``...
-Example:
-``$ lein run "Ha-what!" "Yeahhh!" "Ho kayyyy"``
-produces the output:
-``Yeahhh!
-Ho kayyyy
-Ha-what!``
-## Examples
 
+## Examples
+``$ lein run``
+
+produces the output with default 12 strings:
+
+``
+How goes it
+
+Hey
+
+How are you
+
+Hello
+
+Hi
+
+Hi there
+
+Good day
+
+G'day
+
+Greetings
+
+How do you do
+
+Howdy
+
+What's up``
+``$ lein run "Ha-what!" "Yeahhh!" "Ho kayyyy"``
+
+produces the output:
+
+
+``Yeahhh!
+
+Ho kayyyy
+
+Ha-what!``
 
 
 ### Bugs

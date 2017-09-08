@@ -58,15 +58,11 @@ Ha-what!</code>
 
 ### Bugs
 
-
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+None found so far.
 
 ## License
 
-Copyright © 2017 FIXME
+Copyright © 2017 Daniel Dews
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
